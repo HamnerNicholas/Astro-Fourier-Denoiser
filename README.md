@@ -376,4 +376,4 @@ MIT License
 
 ## Author
 
-Developed as an experimental astrophotography research project exploring Fourier coherence denoising techniques and frequency-domain signal consistency analysis.
+Nicholas Hamner
